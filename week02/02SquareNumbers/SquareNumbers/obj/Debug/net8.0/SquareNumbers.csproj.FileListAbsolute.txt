@@ -1,0 +1,15 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/bin/Debug/net8.0/SquareNumbers
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/bin/Debug/net8.0/SquareNumbers.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/bin/Debug/net8.0/SquareNumbers.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/bin/Debug/net8.0/SquareNumbers.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/bin/Debug/net8.0/SquareNumbers.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/obj/Debug/net8.0/SquareNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/obj/Debug/net8.0/SquareNumbers.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/obj/Debug/net8.0/SquareNumbers.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/obj/Debug/net8.0/SquareNumbers.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/obj/Debug/net8.0/SquareNumbers.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/obj/Debug/net8.0/SquareNumbers.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/obj/Debug/net8.0/refint/SquareNumbers.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/obj/Debug/net8.0/SquareNumbers.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/obj/Debug/net8.0/SquareNumbers.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/SquareNumbers02/SquareNumbers/obj/Debug/net8.0/ref/SquareNumbers.dll

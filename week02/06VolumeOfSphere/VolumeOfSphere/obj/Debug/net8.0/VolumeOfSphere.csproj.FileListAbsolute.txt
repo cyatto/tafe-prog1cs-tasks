@@ -1,0 +1,15 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/bin/Debug/net8.0/VolumeOfSphere
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/bin/Debug/net8.0/VolumeOfSphere.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/bin/Debug/net8.0/VolumeOfSphere.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/bin/Debug/net8.0/VolumeOfSphere.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/bin/Debug/net8.0/VolumeOfSphere.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/obj/Debug/net8.0/VolumeOfSphere.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/obj/Debug/net8.0/VolumeOfSphere.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/obj/Debug/net8.0/VolumeOfSphere.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/obj/Debug/net8.0/VolumeOfSphere.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/obj/Debug/net8.0/VolumeOfSphere.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/obj/Debug/net8.0/VolumeOfSphere.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/obj/Debug/net8.0/refint/VolumeOfSphere.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/obj/Debug/net8.0/VolumeOfSphere.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/obj/Debug/net8.0/VolumeOfSphere.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/VolumeOfSphere06/VolumeOfSphere/obj/Debug/net8.0/ref/VolumeOfSphere.dll

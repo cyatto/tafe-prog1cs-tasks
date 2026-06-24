@@ -1,0 +1,15 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/bin/Debug/net8.0/Largest
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/bin/Debug/net8.0/Largest.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/bin/Debug/net8.0/Largest.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/bin/Debug/net8.0/Largest.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/bin/Debug/net8.0/Largest.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/obj/Debug/net8.0/Largest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/obj/Debug/net8.0/Largest.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/obj/Debug/net8.0/Largest.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/obj/Debug/net8.0/Largest.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/obj/Debug/net8.0/Largest.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/obj/Debug/net8.0/Largest.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/obj/Debug/net8.0/refint/Largest.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/obj/Debug/net8.0/Largest.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/obj/Debug/net8.0/Largest.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Largest01/Largest/obj/Debug/net8.0/ref/Largest.dll

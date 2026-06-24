@@ -1,0 +1,15 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/bin/Debug/net9.0/Grades
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/bin/Debug/net9.0/Grades.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/bin/Debug/net9.0/Grades.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/bin/Debug/net9.0/Grades.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/bin/Debug/net9.0/Grades.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/obj/Debug/net9.0/Grades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/obj/Debug/net9.0/Grades.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/obj/Debug/net9.0/Grades.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/obj/Debug/net9.0/Grades.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/obj/Debug/net9.0/Grades.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/obj/Debug/net9.0/Grades.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/obj/Debug/net9.0/refint/Grades.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/obj/Debug/net9.0/Grades.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/obj/Debug/net9.0/Grades.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/obj/Debug/net9.0/ref/Grades.dll

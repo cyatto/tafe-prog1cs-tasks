@@ -1,0 +1,15 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/bin/Debug/net8.0/DieRoll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/bin/Debug/net8.0/DieRoll.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/bin/Debug/net8.0/DieRoll.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/bin/Debug/net8.0/DieRoll.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/bin/Debug/net8.0/DieRoll.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/obj/Debug/net8.0/DieRoll.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/obj/Debug/net8.0/DieRoll.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/obj/Debug/net8.0/DieRoll.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/obj/Debug/net8.0/DieRoll.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/obj/Debug/net8.0/DieRoll.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/obj/Debug/net8.0/DieRoll.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/obj/Debug/net8.0/refint/DieRoll.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/obj/Debug/net8.0/DieRoll.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/obj/Debug/net8.0/DieRoll.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/DieRoll05/DieRoll/obj/Debug/net8.0/ref/DieRoll.dll

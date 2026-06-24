@@ -1,0 +1,15 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/bin/Debug/net8.0/FahToCel
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/bin/Debug/net8.0/FahToCel.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/bin/Debug/net8.0/FahToCel.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/bin/Debug/net8.0/FahToCel.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/bin/Debug/net8.0/FahToCel.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/obj/Debug/net8.0/FahToCel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/obj/Debug/net8.0/FahToCel.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/obj/Debug/net8.0/FahToCel.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/obj/Debug/net8.0/FahToCel.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/obj/Debug/net8.0/FahToCel.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/obj/Debug/net8.0/FahToCel.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/obj/Debug/net8.0/refint/FahToCel.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/obj/Debug/net8.0/FahToCel.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/obj/Debug/net8.0/FahToCel.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/FahToCel03/FahToCel/obj/Debug/net8.0/ref/FahToCel.dll
