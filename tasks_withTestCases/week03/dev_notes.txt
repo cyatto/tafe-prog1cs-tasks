@@ -1,0 +1,17 @@
+# 07.07
+
+## SUM01
+
+### notes
+
+- tests fail
+- how to read test error messages?
+- "System.OutOfMemoryException : Insufficient memory to continue the execution of the program."
+  - maybe some kind of infinite loop happening...
+
+- code logic seems to work when run manually tho
+
+### TODO
+
+- unsure how to handle strings that cannot convert to strings
+- EOF signals?
