@@ -1,0 +1,15 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/bin/Debug/net10.0/01EvenOrOdd
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/bin/Debug/net10.0/01EvenOrOdd.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/bin/Debug/net10.0/01EvenOrOdd.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/bin/Debug/net10.0/01EvenOrOdd.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/bin/Debug/net10.0/01EvenOrOdd.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/obj/Debug/net10.0/01EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/obj/Debug/net10.0/01EvenOrOdd.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/obj/Debug/net10.0/01EvenOrOdd.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/obj/Debug/net10.0/01EvenOrOdd.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/obj/Debug/net10.0/01EvenOrOdd.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/obj/Debug/net10.0/01EvenOrOdd.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/obj/Debug/net10.0/refint/01EvenOrOdd.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/obj/Debug/net10.0/01EvenOrOdd.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/obj/Debug/net10.0/01EvenOrOdd.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/01EvenOrOdd/obj/Debug/net10.0/ref/01EvenOrOdd.dll

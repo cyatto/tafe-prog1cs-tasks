@@ -1,0 +1,14 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/obj/Debug/net10.0/02DistanceTravelled.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/obj/Debug/net10.0/02DistanceTravelled.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/obj/Debug/net10.0/02DistanceTravelled.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/obj/Debug/net10.0/02DistanceTravelled.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/bin/Debug/net10.0/02DistanceTravelled
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/bin/Debug/net10.0/02DistanceTravelled.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/bin/Debug/net10.0/02DistanceTravelled.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/bin/Debug/net10.0/02DistanceTravelled.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/bin/Debug/net10.0/02DistanceTravelled.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/obj/Debug/net10.0/02DistanceTravelled.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/obj/Debug/net10.0/refint/02DistanceTravelled.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/obj/Debug/net10.0/02DistanceTravelled.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/obj/Debug/net10.0/02DistanceTravelled.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/exercises/TT307/02DistanceTravelled/obj/Debug/net10.0/ref/02DistanceTravelled.dll

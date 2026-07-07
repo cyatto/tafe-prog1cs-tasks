@@ -1,0 +1,15 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/bin/Debug/net10.0/04RollerCoaster
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/bin/Debug/net10.0/04RollerCoaster.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/bin/Debug/net10.0/04RollerCoaster.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/bin/Debug/net10.0/04RollerCoaster.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/bin/Debug/net10.0/04RollerCoaster.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/obj/Debug/net10.0/04RollerCoaster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/obj/Debug/net10.0/04RollerCoaster.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/obj/Debug/net10.0/04RollerCoaster.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/obj/Debug/net10.0/04RollerCoaster.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/obj/Debug/net10.0/04RollerCoaster.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/obj/Debug/net10.0/04RollerCoaster.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/obj/Debug/net10.0/refint/04RollerCoaster.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/obj/Debug/net10.0/04RollerCoaster.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/obj/Debug/net10.0/04RollerCoaster.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/04RollerCoaster/obj/Debug/net10.0/ref/04RollerCoaster.dll

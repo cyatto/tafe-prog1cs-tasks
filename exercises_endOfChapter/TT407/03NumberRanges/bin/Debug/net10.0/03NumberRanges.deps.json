@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "03NumberRanges/1.0.0": {
+        "runtime": {
+          "03NumberRanges.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03NumberRanges/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/obj/Debug/net10.0/03NumberRanges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/obj/Debug/net10.0/03NumberRanges.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/obj/Debug/net10.0/03NumberRanges.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/obj/Debug/net10.0/03NumberRanges.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/obj/Debug/net10.0/03NumberRanges.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/bin/Debug/net10.0/03NumberRanges
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/bin/Debug/net10.0/03NumberRanges.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/bin/Debug/net10.0/03NumberRanges.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/bin/Debug/net10.0/03NumberRanges.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/bin/Debug/net10.0/03NumberRanges.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/obj/Debug/net10.0/03NumberRanges.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/obj/Debug/net10.0/refint/03NumberRanges.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/obj/Debug/net10.0/03NumberRanges.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/obj/Debug/net10.0/03NumberRanges.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/TT407_exercises/03NumberRanges/obj/Debug/net10.0/ref/03NumberRanges.dll

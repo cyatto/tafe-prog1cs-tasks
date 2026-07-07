@@ -1,0 +1,14 @@
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/bin/Debug/net10.0/01HelloCommandLine
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/bin/Debug/net10.0/01HelloCommandLine.deps.json
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/bin/Debug/net10.0/01HelloCommandLine.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/bin/Debug/net10.0/01HelloCommandLine.dll
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/bin/Debug/net10.0/01HelloCommandLine.pdb
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/obj/Debug/net10.0/01HelloCommandLine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/obj/Debug/net10.0/01HelloCommandLine.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/obj/Debug/net10.0/01HelloCommandLine.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/obj/Debug/net10.0/01HelloCommandLine.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/obj/Debug/net10.0/01HelloCommandLine.dll
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/obj/Debug/net10.0/refint/01HelloCommandLine.dll
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/obj/Debug/net10.0/01HelloCommandLine.pdb
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/obj/Debug/net10.0/01HelloCommandLine.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/notes/tafe_tthom_programming1cs_book/Exercises/TT307/01HelloCommandLine/obj/Debug/net10.0/ref/01HelloCommandLine.dll
