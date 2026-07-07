@@ -1,0 +1,15 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/bin/Debug/net8.0/RunningSum
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/bin/Debug/net8.0/RunningSum.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/bin/Debug/net8.0/RunningSum.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/bin/Debug/net8.0/RunningSum.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/bin/Debug/net8.0/RunningSum.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/obj/Debug/net8.0/RunningSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/obj/Debug/net8.0/RunningSum.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/obj/Debug/net8.0/RunningSum.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/obj/Debug/net8.0/RunningSum.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/obj/Debug/net8.0/RunningSum.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/obj/Debug/net8.0/RunningSum.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/obj/Debug/net8.0/refint/RunningSum.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/obj/Debug/net8.0/RunningSum.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/obj/Debug/net8.0/RunningSum.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Sum01/RunningSum/obj/Debug/net8.0/ref/RunningSum.dll
