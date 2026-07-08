@@ -1,9 +1,10 @@
 # 07.07
 
-## SUM01
+## week03 tasks
 
 ### notes
 
+sum01
 - tests fail
 - how to read test error messages?
 - "System.OutOfMemoryException : Insufficient memory to continue the execution of the program."
@@ -13,12 +14,14 @@
 
 ### TODO
 
-- unsure how to handle strings that cannot convert to strings
-- EOF signals?
+- [] unsure how to handle strings that cannot convert to strings
+- [] EOF signals?
 
 ---
 
 # 07.08
+
+## week03 tasks
 
 ### notes
 
@@ -39,4 +42,11 @@
 
 - [x] checked in LINQPAD - logic working ok!
 
+### TODO
+
+- [] EvenOrOdd --> how to write as FOR loop?
+
+### git
+
+- 1141 commit - update week03 code & devNotes
 
