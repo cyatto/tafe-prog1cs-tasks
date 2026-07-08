@@ -1,0 +1,8 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/EvenOrOdd05/EvenOrOdd.Test/bin/Debug/net9.0/.msCoverageSourceRootsMapping_EvenOrOdd.Test
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/EvenOrOdd05/EvenOrOdd.Test/bin/Debug/net9.0/CoverletSourceRootsMapping_EvenOrOdd.Test
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/EvenOrOdd05/EvenOrOdd.Test/obj/Debug/net9.0/EvenOrOdd.Test.csproj.AssemblyReference.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/EvenOrOdd05/EvenOrOdd.Test/obj/Debug/net9.0/EvenOrOdd.Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/EvenOrOdd05/EvenOrOdd.Test/obj/Debug/net9.0/EvenOrOdd.Test.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/EvenOrOdd05/EvenOrOdd.Test/obj/Debug/net9.0/EvenOrOdd.Test.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/EvenOrOdd05/EvenOrOdd.Test/obj/Debug/net9.0/EvenOrOdd.Test.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/EvenOrOdd05/EvenOrOdd.Test/obj/Debug/net9.0/EvenOrOdd.Test.sourcelink.json

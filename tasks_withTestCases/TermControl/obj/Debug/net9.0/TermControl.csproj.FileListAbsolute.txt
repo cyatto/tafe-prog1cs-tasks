@@ -1,0 +1,12 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/TermControl/bin/Debug/net9.0/TermControl.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/TermControl/bin/Debug/net9.0/TermControl.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/TermControl/bin/Debug/net9.0/TermControl.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/TermControl/obj/Debug/net9.0/TermControl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/TermControl/obj/Debug/net9.0/TermControl.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/TermControl/obj/Debug/net9.0/TermControl.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/TermControl/obj/Debug/net9.0/TermControl.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/TermControl/obj/Debug/net9.0/TermControl.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/TermControl/obj/Debug/net9.0/TermControl.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/TermControl/obj/Debug/net9.0/refint/TermControl.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/TermControl/obj/Debug/net9.0/TermControl.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/TermControl/obj/Debug/net9.0/ref/TermControl.dll

@@ -1,0 +1,15 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/bin/Debug/net8.0/Timestable
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/bin/Debug/net8.0/Timestable.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/bin/Debug/net8.0/Timestable.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/bin/Debug/net8.0/Timestable.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/bin/Debug/net8.0/Timestable.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/obj/Debug/net8.0/Timestable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/obj/Debug/net8.0/Timestable.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/obj/Debug/net8.0/Timestable.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/obj/Debug/net8.0/Timestable.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/obj/Debug/net8.0/Timestable.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/obj/Debug/net8.0/Timestable.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/obj/Debug/net8.0/refint/Timestable.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/obj/Debug/net8.0/Timestable.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/obj/Debug/net8.0/Timestable.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Timetables02/Timestable/obj/Debug/net8.0/ref/Timestable.dll

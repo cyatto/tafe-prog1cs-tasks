@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "28cKNxMUhdw=",
+  "dgSpecHash": "znRAF6UziLU=",
   "success": true,
-  "projectFilePath": "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/Grades.csproj",
+  "projectFilePath": "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week02/Grades04/Grades/Grades.csproj",
   "expectedPackageFiles": [
     "/Users/cyatto/.nuget/packages/microsoft.netcore.app.ref/9.0.17/microsoft.netcore.app.ref.9.0.17.nupkg.sha512",
     "/Users/cyatto/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.17/microsoft.aspnetcore.app.ref.9.0.17.nupkg.sha512",

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wDDxQeZ5hk=",
+  "success": true,
+  "projectFilePath": "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/TermControl/TermControl.csproj",
+  "expectedPackageFiles": [
+    "/Users/cyatto/.nuget/packages/microsoft.netcore.app.ref/9.0.17/microsoft.netcore.app.ref.9.0.17.nupkg.sha512",
+    "/Users/cyatto/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.17/microsoft.aspnetcore.app.ref.9.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

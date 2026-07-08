@@ -1,0 +1,12 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Rollercoaster04/RollerCoaster/obj/Debug/net8.0/RollerCoaster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Rollercoaster04/RollerCoaster/obj/Debug/net8.0/RollerCoaster.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Rollercoaster04/RollerCoaster/obj/Debug/net8.0/RollerCoaster.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Rollercoaster04/RollerCoaster/obj/Debug/net8.0/RollerCoaster.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Rollercoaster04/RollerCoaster/obj/Debug/net8.0/RollerCoaster.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Rollercoaster04/RollerCoaster/bin/Debug/net8.0/RollerCoaster.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Rollercoaster04/RollerCoaster/bin/Debug/net8.0/RollerCoaster.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Rollercoaster04/RollerCoaster/bin/Debug/net8.0/RollerCoaster.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Rollercoaster04/RollerCoaster/obj/Debug/net8.0/RollerCoaster.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Rollercoaster04/RollerCoaster/obj/Debug/net8.0/refint/RollerCoaster.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Rollercoaster04/RollerCoaster/obj/Debug/net8.0/RollerCoaster.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week03/Rollercoaster04/RollerCoaster/obj/Debug/net8.0/ref/RollerCoaster.dll

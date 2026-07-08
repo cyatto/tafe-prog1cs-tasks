@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wSDJUF5kM5Y=",
+  "dgSpecHash": "8mV1Jm14/zg=",
   "success": true,
-  "projectFilePath": "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades.Test/Grades.Test.csproj",
+  "projectFilePath": "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week02/Grades04/Grades.Test/Grades.Test.csproj",
   "expectedPackageFiles": [
     "/Users/cyatto/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/cyatto/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/Grades.csproj": {}
+    "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week02/Grades04/Grades/Grades.csproj": {}
   },
   "projects": {
-    "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/Grades.csproj": {
+    "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week02/Grades04/Grades/Grades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/Grades.csproj",
+        "projectUniqueName": "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week02/Grades04/Grades/Grades.csproj",
         "projectName": "Grades",
-        "projectPath": "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/Grades.csproj",
+        "projectPath": "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week02/Grades04/Grades/Grades.csproj",
         "packagesPath": "/Users/cyatto/.nuget/packages/",
-        "outputPath": "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/programming1-cs/tasks/week02/Grades04/Grades/obj/",
+        "outputPath": "/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/tasks_withTestCases/week02/Grades04/Grades/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cyatto/.nuget/NuGet/NuGet.Config"
