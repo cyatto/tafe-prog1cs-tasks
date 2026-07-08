@@ -14,8 +14,8 @@ sum01
 
 ### TODO
 
-- [] unsure how to handle strings that cannot convert to strings
-- [] EOF signals?
+- [ ] unsure how to handle strings that cannot convert to strings
+- [ ] EOF signals?
 
 ---
 
@@ -44,7 +44,7 @@ sum01
 
 ### TODO
 
-- [] EvenOrOdd --> how to write as FOR loop?
+- [ ] EvenOrOdd --> how to write as FOR loop?
 
 ### git
 
