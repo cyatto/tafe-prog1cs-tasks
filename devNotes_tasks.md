@@ -1,21 +1,23 @@
-# 07.07
+# Mo 07.14
 
-## week03 tasks
+- completed TT504, notes on properties and encapsulation
+- end of chapter exercises, tasks 1 + 2
+- remember!! Method names are in PascalCase!!
 
-### notes
+---
 
-sum01
-- tests fail
-- how to read test error messages?
-- "System.OutOfMemoryException : Insufficient memory to continue the execution of the program."
-  - maybe some kind of infinite loop happening...
+# Th 07.09
 
-- code logic seems to work when run manually tho
+## main
 
-### TODO
+- thank god for claude ig
+  - good prompting: Act as a software engineer with deep understanding of the C# programming language and its documentation. Explain the above concepts and how each code works step by step in a list. Be concise with a casual tone of voice and write it as documentation for beginners.
 
-- [ ] unsure how to handle strings that cannot convert to strings
-- [ ] EOF signals?
+## timekeeper
+
+11:28
+- still on method overloading
+  - concepts yet to live inside my brain: statically typed languages --> method overloading
 
 ---
 
@@ -49,4 +51,26 @@ sum01
 ### git
 
 - 1141 commit - update week03 code & devNotes
+
+
+---
+
+# 07.07
+
+## week03 tasks
+
+### notes
+
+sum01
+- tests fail
+- how to read test error messages?
+- "System.OutOfMemoryException : Insufficient memory to continue the execution of the program."
+  - maybe some kind of infinite loop happening...
+
+- code logic seems to work when run manually tho
+
+### TODO
+
+- [ ] unsure how to handle strings that cannot convert to strings
+- [ ] EOF signals?
 
