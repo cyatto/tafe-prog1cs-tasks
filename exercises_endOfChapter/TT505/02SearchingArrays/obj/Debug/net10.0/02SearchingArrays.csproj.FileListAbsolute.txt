@@ -1,0 +1,15 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/obj/Debug/net10.0/02SearchingArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/obj/Debug/net10.0/02SearchingArrays.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/obj/Debug/net10.0/02SearchingArrays.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/obj/Debug/net10.0/02SearchingArrays.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/obj/Debug/net10.0/02SearchingArrays.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/bin/Debug/net10.0/02SearchingArrays
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/bin/Debug/net10.0/02SearchingArrays.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/bin/Debug/net10.0/02SearchingArrays.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/bin/Debug/net10.0/02SearchingArrays.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/bin/Debug/net10.0/02SearchingArrays.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/obj/Debug/net10.0/02SearchingArrays.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/obj/Debug/net10.0/refint/02SearchingArrays.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/obj/Debug/net10.0/02SearchingArrays.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/obj/Debug/net10.0/02SearchingArrays.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/02SearchingArrays/obj/Debug/net10.0/ref/02SearchingArrays.dll

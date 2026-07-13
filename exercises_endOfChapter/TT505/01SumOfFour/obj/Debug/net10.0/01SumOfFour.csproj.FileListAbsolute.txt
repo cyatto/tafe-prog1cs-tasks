@@ -1,0 +1,15 @@
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/obj/Debug/net10.0/01SumOfFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/obj/Debug/net10.0/01SumOfFour.AssemblyInfoInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/obj/Debug/net10.0/01SumOfFour.AssemblyInfo.cs
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/obj/Debug/net10.0/01SumOfFour.csproj.CoreCompileInputs.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/obj/Debug/net10.0/01SumOfFour.sourcelink.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/bin/Debug/net10.0/01SumOfFour
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/bin/Debug/net10.0/01SumOfFour.deps.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/bin/Debug/net10.0/01SumOfFour.runtimeconfig.json
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/bin/Debug/net10.0/01SumOfFour.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/bin/Debug/net10.0/01SumOfFour.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/obj/Debug/net10.0/01SumOfFour.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/obj/Debug/net10.0/refint/01SumOfFour.dll
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/obj/Debug/net10.0/01SumOfFour.pdb
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/obj/Debug/net10.0/01SumOfFour.genruntimeconfig.cache
+/Users/cyatto/Study/prog/csharp/code/tafe_tthom_programming1cs_book/tasks/exercises_endOfChapter/TT505/01SumOfFour/obj/Debug/net10.0/ref/01SumOfFour.dll
